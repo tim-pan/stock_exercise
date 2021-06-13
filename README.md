@@ -1,4 +1,4 @@
-# some stock information of taiwan enterprise
+# some stock information of taiwan enterprises
 ###### tags: `beautifulSoup`,`selenium`,`python`
 this is just a exercise of scrapy
 but I don't use the framework 'scrapy'
