@@ -15,8 +15,7 @@ but I don't use the framework 'scrapy'
 </br></br></br>
 *NOTE*:Please check that **stock.py** is in the default paths of webdriver or you will get an error with:
 
-
-```selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+```
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
 
 ```
-
